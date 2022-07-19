@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd3aa820-c752-495c-a08b-f2910d36a3de": {
+      "ProjectGuid": "bd3aa820-c752-495c-a08b-f2910d36a3de",
+      "DisplayName": "Domain.Model",
+      "ColorIndex": 0
+    },
+    "1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9": {
+      "ProjectGuid": "1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9",
+      "DisplayName": "Domain.UseCase",
+      "ColorIndex": 1
+    },
+    "2cecc171-64e0-42c9-bde8-c0602edbf216": {
+      "ProjectGuid": "2cecc171-64e0-42c9-bde8-c0602edbf216",
+      "DisplayName": "EntryPoints.ReactiveWeb",
+      "ColorIndex": 2
+    },
+    "78ebc178-d475-4d19-91ac-51d2a72118e9": {
+      "ProjectGuid": "78ebc178-d475-4d19-91ac-51d2a72118e9",
+      "DisplayName": "ApiInsuranceManager.AppServices",
+      "ColorIndex": 3
+    },
+    "e669db51-5539-4c5a-ab8f-ca69568398b0": {
+      "ProjectGuid": "e669db51-5539-4c5a-ab8f-ca69568398b0",
+      "DisplayName": "DrivenAdapters.Mongo",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a": {
+      "ProjectGuid": "1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a",
+      "DisplayName": "Helpers.ObjectsUtils",
+      "ColorIndex": 5
+    },
+    "94630255-fd7f-4ecd-a061-1f89e7971dc4": {
+      "ProjectGuid": "94630255-fd7f-4ecd-a061-1f89e7971dc4",
+      "DisplayName": "DrivenAdapters.SQL",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

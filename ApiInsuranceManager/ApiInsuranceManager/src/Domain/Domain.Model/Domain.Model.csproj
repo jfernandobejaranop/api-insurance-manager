@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>$(NetCoreTargetVersion)</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\$(NetCoreTargetVersion)\Domain.Entities.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\$(NetCoreTargetVersion)\Domain.Entities.xml</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Entities\Gateway\IMongoEntityRepository.cs"></None>
+    <None Include="Entities\Entity.cs"></None>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="2.16.1" />
+  </ItemGroup>
+
+</Project>

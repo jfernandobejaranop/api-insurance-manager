@@ -1,0 +1,508 @@
+﻿++Solución "ApiInsuranceManager" ‎(12 de 12 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:ApiInsuranceManager.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Applications
+i:{6583862f-6f38-4550-b283-c4e0abecea65}:Applications
+++ApiInsuranceManager.AppServices
+i:{049b3dbb-5902-45ff-bb94-5bbca7973ffa}:ApiInsuranceManager.AppServices
+++Connected Services 
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1442
+++Dependencias
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1441
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:>492
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:>601
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:>770
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:>600
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:>907
+i:{f588e861-6c86-4c9d-b9ec-959fd3ef8fcd}:>556
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:>769
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:>912
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:>1002
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:>1194
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:>1098
+++Properties
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\properties\
+++wwwroot
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\
+++Automapper
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\automapper\
+++Build
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\build\
+++OpenTelemetry
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\opentelemetry\
+++ApiInsuranceManager.configmap.yaml
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\apiinsurancemanager.configmap.yaml
+++appsettings.json
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\appsettings.json
+++AzureKeyVaultConfig.cs
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\azurekeyvaultconfig.cs
+++ConfigurationServices.cs
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\configurationservices.cs
+++Directory.Build.props
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\directory.build.props
+++Dockerfile
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\dockerfile
+++Move-props.ps1
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\move-props.ps1
+++Program.cs
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\program.cs
+++Startup.cs
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\startup.cs
+++No se detectaron dependencias de servicio
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1443
+++Analizadores
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:analizadores
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:analizadores
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:analizadores
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:analizadores
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:analizadores
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:analizadores
+i:{f588e861-6c86-4c9d-b9ec-959fd3ef8fcd}:analizadores
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:analizadores
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:analizadores
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:analizadores
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:analizadores
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:analizadores
+++Marcos de trabajo
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:marcos de trabajo
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:marcos de trabajo
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:marcos de trabajo
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:marcos de trabajo
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:marcos de trabajo
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:marcos de trabajo
+i:{f588e861-6c86-4c9d-b9ec-959fd3ef8fcd}:marcos de trabajo
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:marcos de trabajo
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:marcos de trabajo
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:marcos de trabajo
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:marcos de trabajo
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:marcos de trabajo
+++Paquetes
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:paquetes
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:paquetes
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:paquetes
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:paquetes
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:paquetes
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:paquetes
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:paquetes
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:paquetes
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:paquetes
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:paquetes
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:paquetes
+++Proyectos
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:proyectos
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:proyectos
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:proyectos
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:proyectos
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:proyectos
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:proyectos
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:proyectos
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:proyectos
+++launchSettings.json
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\properties\launchsettings.json
+++corelogo.png
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\corelogo.png
+++index.html
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\index.html
+++LogoColor.png
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\logocolor.png
+++logosc.jpg
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\logosc.jpg
+++stylesheet.css
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\stylesheet.css
+++swagger.Development.css
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\swagger.development.css
+++swagger.png
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\swagger.png
+++swagger.Production.css
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\swagger.production.css
+++swagger.Staging.css
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\wwwroot\swagger.staging.css
+++EntityProfile.cs
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\automapper\entityprofile.cs
+++dependencies.props
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\build\dependencies.props
+++OpenTelemetryConfigurationSettings.cs
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\opentelemetry\opentelemetryconfigurationsettings.cs
+++OpenTelemetryExtensions.cs
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\opentelemetry\opentelemetryextensions.cs
+++Microsoft.AspNetCore.Analyzers
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f588e861-6c86-4c9d-b9ec-959fd3ef8fcd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f588e861-6c86-4c9d-b9ec-959fd3ef8fcd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\users\personal\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\users\personal\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\applications\apiinsurancemanager.appservices\microsoft.netcore.app
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\microsoft.netcore.app
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\microsoft.netcore.app
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\microsoft.netcore.app
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.mongo\microsoft.netcore.app
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\microsoft.netcore.app
+i:{f588e861-6c86-4c9d-b9ec-959fd3ef8fcd}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\helpers\helpers.commons\microsoft.netcore.app
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\helpers\helpers.objectsutils\microsoft.netcore.app
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\tests\domain\domain.model.tests\microsoft.netcore.app
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\tests\domain\domain.usecase.tests\microsoft.netcore.app
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\tests\infrastructure\entrypoints\entrypoints.reactweb.tests\microsoft.netcore.app
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\tests\infrastructure\drivenadapters\drivenadapters.mongo.tests\microsoft.netcore.app
+++AutoMapper (10.1.1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1573
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:>1498
+++AutoMapper.Data (5.0.0)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1579
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1559
+++Azure.Extensions.AspNetCore.Configuration.Secrets (1.2.1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1560
+++Azure.Identity (1.4.1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1566
+++credinet-exception-middleware (1.0.38002)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1569
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:>1464
+++Elastic.Apm.SerilogEnricher (1.6.0-alpha1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1564
+++FluentValidation.AspNetCore (10.3.3)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1563
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (5.0.9)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1567
+++Microsoft.EntityFrameworkCore (5.0.17)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1556
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:>1505
+++Microsoft.EntityFrameworkCore.Design (5.0.17)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1561
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:>1507
+++Microsoft.Extensions.PlatformAbstractions (1.1.0)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1570
+++Microsoft.IdentityModel.Clients.ActiveDirectory (5.2.9)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1558
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.11.1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1575
+++OpenTelemetry.Contrib.Instrumentation.EntityFrameworkCore (1.0.0-beta2)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1580
+++OpenTelemetry.Exporter.Console (1.2.0-beta1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1568
+++OpenTelemetry.Exporter.Zipkin (1.2.0-beta1)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1572
+++OpenTelemetry.Extensions.Hosting (1.0.0-rc8)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1576
+++OpenTelemetry.Instrumentation.AspNetCore (1.0.0-rc8)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1557
+++OpenTelemetry.Instrumentation.Http (1.0.0-rc8)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1574
+++SC.Configuration.Provider.Mongo (1.0.40329)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1578
+++Serilog (2.11.0-dev-01371)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1577
+++Serilog.AspNetCore (4.1.1-dev-00229)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1562
+++Serilog.Enrichers.Span (1.4.0)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1581
+++Serilog.Extensions.Hosting (4.1.2)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1565
+++Serilog.Sinks.Console (4.0.1-dev-00879)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1571
+++Serilog.Sinks.Elasticsearch (8.5.0-alpha0003)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>1555
+++Domain.UseCase
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\domain.usecase.csproj
+i:{ac42abd1-159c-447d-91e2-318d8a58f9b9}:Domain.UseCase
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\domain.usecase.csproj
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\domain.usecase.csproj
+++DrivenAdapters.Mongo
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.mongo\drivenadapters.mongo.csproj
+i:{11ea6317-56f7-4cd7-88cb-da874a998689}:DrivenAdapters.Mongo
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.mongo\drivenadapters.mongo.csproj
+++DrivenAdapters.SQL
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\drivenadapters.sql.csproj
+i:{11ea6317-56f7-4cd7-88cb-da874a998689}:DrivenAdapters.SQL
+++EntryPoints.ReactiveWeb
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\entrypoints.reactiveweb.csproj
+i:{8bccc811-ea30-4f69-8a5b-1cb2176be34c}:EntryPoints.ReactiveWeb
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\entrypoints.reactiveweb.csproj
+++Domain
+i:{6583862f-6f38-4550-b283-c4e0abecea65}:Domain
+i:{01208c3f-8e68-45d6-b9ef-2ec77eb54316}:Domain
+++Domain.Model
+i:{ac42abd1-159c-447d-91e2-318d8a58f9b9}:Domain.Model
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\domain.model.csproj
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\domain.model.csproj
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\domain.model.csproj
+++DTO
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\
+++CarShop.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\carshop.cs
+++Eps.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\eps.cs
+++Entities
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\
+++Enums
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\enums\
+++Gateway
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\gateway\
+++SQL
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\
+++Entity.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\entity.cs
+i:{f588e861-6c86-4c9d-b9ec-959fd3ef8fcd}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\helpers\helpers.commons\entity.cs
+++IMongoEntityRepository.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\gateway\imongoentityrepository.cs
+++ISqlEntityRepository.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\gateway\isqlentityrepository.cs
+++Implements
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\implements\
+++Interface
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\interface\
+++IManageTestEntityUserCase.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\imanagetestentityusercase.cs
+++ManageEntityUserCase.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\manageentityusercase.cs
+++CarShopWeb.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\implements\carshopweb.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\mongodb\carshopweb.cs
+++EntityEPS.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\implements\entityeps.cs
+++ICarShop.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\interface\icarshop.cs
+++IEntityEPS.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\interface\ientityeps.cs
+++Microsoft.Extensions.Logging.Abstractions (5.0.0)
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:>1519
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:>1528
+++System.Reactive (5.0.0)
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:>1518
+++Infrastructure
+i:{6583862f-6f38-4550-b283-c4e0abecea65}:Infrastructure
+i:{01208c3f-8e68-45d6-b9ef-2ec77eb54316}:Infrastructure
+++EntryPoints
+i:{7f1a4129-e190-4c70-a462-67468d725456}:EntryPoints
+i:{9cd9b3f1-9756-484c-9fab-aaabef9bfac2}:EntryPoints
+++Controllers
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\
+++CarShopWebController.cs
+++EntityController.cs
+++EpsController.cs
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\epscontroller.cs
+++FosygaWebController.cs
+++PersonController.cs
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\personcontroller.cs
+++PoliceWebController.cs
+++PolicyController.cs
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\policycontroller.cs
+++VehicleController.cs
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\vehiclecontroller.cs
+++Microsoft.CodeAnalysis.Analyzers
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\users\personal\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:c:\users\personal\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\users\personal\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:c:\users\personal\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++credinet.comun.api.core3 (1.0.14652)
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:>1463
+++Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer (5.0.0)
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:>1461
+++Newtonsoft.Json (13.0.1)
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:>1462
+++DrivenAdapters
+i:{7f1a4129-e190-4c70-a462-67468d725456}:DrivenAdapters
+i:{9cd9b3f1-9756-484c-9fab-aaabef9bfac2}:DrivenAdapters
+++Models
+++Context.cs
+++MongoDbService.cs
+++MongoDBSettings.cs
+++EntityAdapter.cs
+++Coll_CarShop.cs
+++Microsoft.Extensions.Options (6.0.0)
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:>1530
+++MongoDB.Driver (2.16.1)
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:>1529
+++Helpers.ObjectsUtils
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\helpers\helpers.objectsutils\helpers.objectsutils.csproj
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\helpers\helpers.objectsutils\helpers.objectsutils.csproj
+i:{3b96d523-191e-490f-a9ab-338e1efefbdc}:Helpers.ObjectsUtils
+++Migrations
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\
+++EntitySQLAdapter.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\entitysqladapter.cs
+++InsuranceContext.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\insurancecontext.cs
+++20220628024155_Initial.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220628024155_initial.cs
+++InsuranceContextModelSnapshot.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\insurancecontextmodelsnapshot.cs
+++TBL_BRAND.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_brand.cs
+++TBL_EPS.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_eps.cs
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:>1506
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:>1508
+++20220628024155_Initial.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220628024155_initial.designer.cs
+++Helpers
+i:{7f1a4129-e190-4c70-a462-67468d725456}:Helpers
+++Helpers.Commons
+i:{3b96d523-191e-490f-a9ab-338e1efefbdc}:Helpers.Commons
+++MapperObject.cs
+i:{1416ed92-07ef-4cc0-bf3c-fe4be6ce2e9a}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\helpers\helpers.objectsutils\mapperobject.cs
+++Tests
+i:{00000000-0000-0000-0000-000000000000}:Tests
+++Domain.Model.Tests
+i:{5d4ddf9d-8e4a-4ef8-bf83-89f4c9f01825}:Domain.Model.Tests
+++UserTest.cs
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\tests\domain\domain.model.tests\usertest.cs
+++xunit.analyzers
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:c:\users\personal\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:c:\users\personal\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:c:\users\personal\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:c:\users\personal\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++Moq (4.16.1)
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:>1491
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:>1484
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:>1452
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:>1542
+++xunit (2.4.1)
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:>1489
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:>1481
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:>1450
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:>1540
+++xunit.runner.visualstudio (2.4.3)
+i:{51ffe0b0-81ed-43be-af31-d7f4ee263573}:>1490
+i:{55c75363-e47c-4bce-97e6-7f79a09fef7d}:>1482
+i:{aa88a954-22ab-4940-b58c-da3bf03a7074}:>1451
+i:{7db8313a-f77a-414b-be0b-0301895bafdf}:>1541
+++Domain.UseCase.Tests
+i:{5d4ddf9d-8e4a-4ef8-bf83-89f4c9f01825}:Domain.UseCase.Tests
+++EntryPoints.ReactWeb.Tests
+i:{554498f1-52a1-4209-a1df-de4437553ac9}:EntryPoints.ReactWeb.Tests
+++DrivenAdapters.Mongo.Tests
+i:{19a6ca90-fe1f-4e4b-b85c-e5e51c983da9}:DrivenAdapters.Mongo.Tests
+++NewFolder
+++System.Collections (4.3.0)
+i:{78ebc178-d475-4d19-91ac-51d2a72118e9}:>2412
+++TBL_PERSON.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_person.cs
+++20220710152735_addPerson.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710152735_addperson.cs
+++20220710152735_addPerson.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710152735_addperson.designer.cs
+++20220710153323_addPersons.cs
+++20220710153323_addPersons.Designer.cs
+++20220710153917_addTablePerson.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710153917_addtableperson.cs
+++20220710153917_addTablePerson.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710153917_addtableperson.designer.cs
+++TBL_VEHICLE.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_vehicle.cs
+++TBL_LINE.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_line.cs
+++TBL_PERSON_VEHICLEcs.cs
+++TBL_PERSON_VEHICLE.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_person_vehicle.cs
+++TBL_REQUEST.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_request.cs
+++TBL_INSURANCE_VALUES.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_insurance_values.cs
+++TBL_INSURANCE_TYPE.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\sql\tbl_insurance_type.cs
+++20220710160613_addCompleteShema.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710160613_addcompleteshema.cs
+++20220710160613_addCompleteShema.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710160613_addcompleteshema.designer.cs
+++20220710161032_addCompleteShemas.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710161032_addcompleteshemas.cs
+++20220710161032_addCompleteShemas.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220710161032_addcompleteshemas.designer.cs
+++IPerson.cs
+++Person.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\person.cs
+++IPersons.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\interface\ipersons.cs
+++Persons.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\implements\persons.cs
+++IPolicy.cs
+++Policy.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\policy.cs
+++20220711125005_addAtributtesInTBL_Request.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711125005_addatributtesintbl_request.cs
+++20220711125005_addAtributtesInTBL_Request.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711125005_addatributtesintbl_request.designer.cs
+++IPolicys.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\interface\ipolicys.cs
+++Policys.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\implements\policys.cs
+++20220711131121_addAtributtesInTBL_Request2.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711131121_addatributtesintbl_request2.cs
+++20220711131121_addAtributtesInTBL_Request2.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711131121_addatributtesintbl_request2.designer.cs
+++TBL_INSURANCE_COVERAGE.cs
+++Vehicle.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\vehicle.cs
+++Vehicles.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\implements\vehicles.cs
+++IVehicles.cs
+i:{1cb5e069-ed70-4064-8ed7-f7bd16bd5bd9}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.usecase\interface\ivehicles.cs
+++20220711142658_RemoveTablePersonVehicle.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711142658_removetablepersonvehicle.cs
+++20220711142658_RemoveTablePersonVehicle.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711142658_removetablepersonvehicle.designer.cs
+++20220711143416_AddForeignBrandVsLine.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711143416_addforeignbrandvsline.cs
+++20220711143416_AddForeignBrandVsLine.Designer.cs
+i:{94630255-fd7f-4ecd-a061-1f89e7971dc4}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.sql\migrations\20220711143416_addforeignbrandvsline.designer.cs
+++WebCarShopController.cs
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\webcarshopcontroller.cs
+++WebPoliceController.cs
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\webpolicecontroller.cs
+++WebFosygaWebController.cs
+++WebFosygaController.cs
+i:{2cecc171-64e0-42c9-bde8-c0602edbf216}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\entrypoints\entrypoints.reactiveweb\controllers\webfosygacontroller.cs
+++MongoDB
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\mongodb\
+++MongoDB.Bson (2.16.1)
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:>2498
+++FosygaWeb.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\mongodb\fosygaweb.cs
+++PoliceWeb.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\entities\mongodb\policeweb.cs
+++Fosyga.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\fosyga.cs
+++Police.cs
+i:{bd3aa820-c752-495c-a08b-f2910d36a3de}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\domain\domain.model\dto\police.cs
+++MongoDbe.cs
+++MongoDb.cs
+++ContextMongoDb.cs
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.mongo\contextmongodb.cs
+++MongoDatabaseSettings.cs
+i:{e669db51-5539-4c5a-ab8f-ca69568398b0}:c:\sistecredito\repos\apiinsurancemanager\apiinsurancemanager\apiinsurancemanager\src\infrastructure\drivenadapters\drivenadapters.mongo\mongodatabasesettings.cs

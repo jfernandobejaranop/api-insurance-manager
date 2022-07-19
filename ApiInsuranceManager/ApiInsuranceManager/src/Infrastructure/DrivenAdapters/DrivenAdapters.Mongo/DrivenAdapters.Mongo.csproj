@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>$(NetCoreTargetVersion)</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\$(NetCoreTargetVersion)\DrivenAdapters.Mongo.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\$(NetCoreTargetVersion)\DrivenAdapters.Mongo.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Automapper\**" />
+    <EmbeddedResource Remove="Automapper\**" />
+    <None Remove="Automapper\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.16.1" />
+  </ItemGroup>
+  <ItemGroup>
+  <ProjectReference Include="..\..\..\Domain\Domain.Model\Domain.Model.csproj" />
+  <ProjectReference Include="..\..\Helpers\Helpers.ObjectsUtils\Helpers.ObjectsUtils.csproj" />
+  </ItemGroup>
+</Project>
